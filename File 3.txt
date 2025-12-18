@@ -1,0 +1,19 @@
+version control?
+-explain version control?
+Version control is a system that helps track and manage changes made to files over time, especially in software development.
+
+-Why version control is used?
+1.Tracks changes – records who changed what and when.
+2.Undo mistakes – you can return to a previous version.
+3.Collaboration – many people can work on the same project safely.
+4.Backup – protects work from accidental loss.
+5.History – keeps a complete record of changes.
+
+-tools of version control?
+1. Git.
+2. GitHub.
+3. GitLab.
+4. Bitbucket.
+5. Apache Subversion (SVN).
+6. Mercurial.
+7. Perforce (Helix Core).
