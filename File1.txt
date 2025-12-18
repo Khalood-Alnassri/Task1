@@ -1,0 +1,19 @@
+ What is an operating system?
+- explain operating system?
+An Operating System (OS) is system software that acts as an interface between the user and the computer hardware. It manages hardware resources and provides services so that application programs can run smoothly.
+Operating System does:
+1.Process Management.
+2.Memory Management.
+3.File System Management.
+4.Device Management.
+5.Security and Access Control.
+6.User Interface.
+
+-defined operating system with examples?
+An Operating System (OS) is system software that acts as an interface between the user and computer hardware, managing resources and allowing programs to run efficiently.
+Examples:
+-Windows – used on personal computers
+-Linux – used on servers and computers
+-macOS – used on Apple computers
+-Android – used on smartphones
+-iOS – used on iPhones and iPads 
