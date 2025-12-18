@@ -1,0 +1,32 @@
+artificial intelligence?
+- what does artificial intelligence mean?
+Artificial Intelligence (AI) is a field of computer science that focuses on creating machines or software that can think, learn, and make decisions in ways that normally require human intelligence.
+
+- Types of artificial intelligence and deferent between them?
+Types of Artificial Intelligence:
+1.Narrow AI:
+-Designed to perform one specific task.
+-Works within limited conditions.
+-Cannot think or reason like a human.
+Examples:
+Chatbots, voice assistants, face recognition, recommendation systems.
+2.General AI:
+-Can understand, learn, and apply intelligence like a human.
+-Can perform any intellectual task.
+-Does not exist yet.
+Example:
+A machine that can learn any subject like a human.
+3.Super AI:
+-Intelligence that exceeds human intelligence.
+-Can outperform humans in creativity and decision-making.
+-Only theoretical / science fiction.
+Example:
+JARVIS (from Iron Man).
+ 
+| Feature              | Narrow AI      | General AI  | Super AI           |
+| -------------------- | -------------- | ----------- | ------------------ |
+| Intelligence level   | Task-specific  | Human-level | Above human        |
+| Learning ability     | Limited        | Broad       | Extremely advanced |
+| Self-awareness       | No             | Possibly    | Yes                |
+| Real-world existence | Yes            | No          | No                 |
+| Examples             | Siri, chatbots | None        | Fictional          |
